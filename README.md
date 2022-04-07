@@ -25,3 +25,10 @@
 - Habit 삭제
 - Habit 수 초기화
 
+## 📱 Screenshots 
+
+### main
+
+<img src="https://user-images.githubusercontent.com/31836035/162132366-292c97cb-6f08-4f4a-bf0f-318bcd4f1d42.gif"/>
+
+<br/>
