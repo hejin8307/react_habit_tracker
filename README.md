@@ -33,5 +33,5 @@
 
 <br/>
 
-## URL
+## 💻 URL
 <p> https://hyejin-habit-tracker.netlify.app </p>
